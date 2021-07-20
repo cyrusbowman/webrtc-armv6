@@ -41,6 +41,7 @@ sudo apt install help2man make libncurses5-dev
 sudo apt install python3-dev autoconf automake  
 sudo apt install libtool libtool-bin gawk wget bzip2  
 sudo apt install xz-utils unzip patch libstdc++6  
+sudo apt install g++
 ```
 
 Then, download the crosstool-ng, open a terminal shell and unpack it:[Crosstool-NG Website](https://crosstool-ng.github.io/)  
